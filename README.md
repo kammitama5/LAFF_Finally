@@ -17,6 +17,7 @@ Basically the course takes you through working by hand *gasp* paper and pen/penc
 * **Vector Mathematics** 
 * **Least Squares**
 * **Eigenvalues/Eigenvectors**
+
 before understanding
 how it applies to software. From there, the applications are in Matlab.
 
