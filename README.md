@@ -1,7 +1,7 @@
 # LAFF_Finally
 # Associated TeX file -> LAFF_Finally TeX
 
-*The associated repo has a similar title, and will contain notes and homework assignments solved*
+*The associated repo has a similar title, and will contain notes and homework assignments solved.*
 
 
 *Please bear in mind that I am also learning TeX, so the notes may not be perfect or the cleanest.
